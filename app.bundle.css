@@ -1,0 +1,62 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e28743;
+  margin: 0;
+}
+
+.hk-header {
+  height: 5rem;
+  line-height: 5rem;
+  width: 100%;
+  background-color: #b81818;
+  font-weight: 800;
+}
+
+.hk-header span {
+  margin: auto;
+  display: table;
+  font-size: 2rem;
+  color: #fff;
+}
+
+.hk-upload-btn, .hk-submit-btn, .hk-label>span  {
+  background-color: #b81818;
+  color: #fff;
+  height: 3rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+  font-family: auto;
+  margin: 2rem 0px;
+}
+
+
+.hk-upload-file {
+  height: 3rem;
+  font-size: 1.5rem;
+  font-family: auto;
+  margin: 2rem 0px;
+}
+
+.hk-section {
+  margin: 2rem;
+}
+
+.hk-input-wrapper {
+  display: block;
+}
+
+.hk-submit-btn {
+  display: block;
+}
+
+.hk-text-area {
+  width: 100%;
+  font-size: 1.5rem;
+  height: 6rem;
+  border: 1px solid #e36921;
+  margin: 2rem 0;
+  display: block;
+  background: #f9ce97;
+  color: #990707;
+}
