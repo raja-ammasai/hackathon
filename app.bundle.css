@@ -31,7 +31,6 @@ body {
   font-weight: bold;
   font-size: 1.5rem;
   font-family: auto;
-  color: #fff;
 }
 
 .hk-upload-btn,
@@ -60,7 +59,14 @@ body {
 
 .hk-input-wrapper {
   display: block;
-  min-height: 20rem;
+  min-height: 15rem;
+}
+
+.hk-dialog-modal {
+  display: block;
+  border-radius: 20px;
+  min-width: 65rem;
+
 }
 
 .hk-button-group {
